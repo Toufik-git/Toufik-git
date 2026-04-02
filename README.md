@@ -41,7 +41,7 @@
 ## 🔥 LeetCode Stats
 
 ## 🔥 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/TOUFIK_HASAN?theme=dark&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/TOUFIK_HASAN?theme=radical&font=baloo)
 ---
 
 ## 📌 Featured Projects
