@@ -44,6 +44,8 @@
 ## 🔥 LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/TOUFIK_HASAN?theme=radical&font=baloo)
 ---
+## 🐍 Contribution Snake  
+![Snake animation](https://github.com/Toufik-git/Toufik-git/blob/output/github-contribution-grid-snake.svg)
 
 ## 📌 Featured Projects
 
