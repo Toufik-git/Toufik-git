@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Toufik Hasan
 
-<!--
-**Toufik-git/Toufik-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **CSE (AI & ML) Student | DSA | Full Stack | DevOps Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+* 🎓 2nd Year B.Tech (AI & ML)
+* 💻 Practicing Data Structures & Algorithms
+* 🌱 Learning Full Stack Development & DevOps
+* ⚡ Solving problems on LeetCode
+* 🌍 Based in India
+
+---
+
+## 🛠️ Tech Stack
+
+💻 Languages:
+`C++` `Java` `Python`
+
+🌐 Web:
+`HTML` `CSS` `JavaScript`
+
+⚙️ DevOps:
+`Docker` `Git` `GitHub` `AWS (Beginner)`
+
+🛢️ Database:
+`MySQL`
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Toufik-git\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toufik-git\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark\&font=baloo)
+
+---
+
+## 📌 Featured Projects
+
+* 🚀 Leetcode-DSA-Journey
+* 🌍 World Clock Web App
+* 🔐 Password Manager
+
+---
+
+⭐ *“Consistency beats talent.”*
