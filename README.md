@@ -12,6 +12,11 @@
 * ⚡ Solving problems on LeetCode
 * 🌍 Based in India
 
+* ## 🌱 Currently Learning  
+- Data Structures & Algorithms  
+- Full Stack Development  
+- DevOps (Docker, CI/CD, AWS)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -29,6 +34,8 @@
 `MySQL`
 
 ---
+## 💡 Quote of the Day  
+"First, solve the problem. Then, write the code."
 
 ## 📊 GitHub Stats
 
@@ -46,6 +53,9 @@
 ---
 ## 🐍 Contribution Snake  
 ![Snake animation](https://github.com/Toufik-git/Toufik-git/blob/output/github-contribution-grid-snake.svg)
+
+## 📊 Contribution Graph  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Toufik-git&theme=tokyo-night)
 
 ## 📌 Featured Projects
 
