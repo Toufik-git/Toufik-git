@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Toufik Hasan
 
-🚀 **CSE (AI & ML) Student | DSA | Full Stack | DevOps Learner**
+🚀 **CSE (AI & ML) Student | DSA | Full Stack | DevOps Learner | DataAnalyst | Machine learning**
 
 ---
 
