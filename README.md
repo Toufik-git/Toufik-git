@@ -16,6 +16,7 @@
 - Data Structures & Algorithms  
 - Full Stack Development  
 - DevOps (Docker, CI/CD, AWS)
+- Machine Learning
 
 ---
 
